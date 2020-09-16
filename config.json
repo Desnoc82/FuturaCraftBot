@@ -1,0 +1,20 @@
+{
+  "token": "NzU1NTIxMDE5MzQ2NjgxOTg3.X2Efxw.G20dOVG_kO5QrA7KPoPWLeb3IA4",
+  "prefix": "*",
+  "greeting":{
+    "channel": "755510038218539081",
+    "role": {
+      "member": "755509964184879206",
+      "membertitle": "755509965917126727"
+    }
+  },
+  "tickets": {
+    "categorie": "755727542182477855",
+    "roles": ["755509958405128382", "755509956463296625", "755509953728348251"]
+  },
+  "serverStats": {
+    "member" : "755757982796480573",
+    "bots": "755758354000904312",
+    "total": "755758680607162371"
+  }
+}
